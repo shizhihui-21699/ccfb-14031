@@ -16,3 +16,8 @@ node_modules/
 __pycache__/
 .venv/
 venv/
+
+# analyzer build artifacts
+tests/bin/
+tests/src/gen_constants.h
+*.pyc
